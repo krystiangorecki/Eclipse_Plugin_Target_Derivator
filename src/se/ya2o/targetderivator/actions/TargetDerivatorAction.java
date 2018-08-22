@@ -28,6 +28,7 @@ public class TargetDerivatorAction implements IWorkbenchWindowActionDelegate {
 
     private static final List<String> foldersToExclude = Arrays.asList(
             "target",
+            "build",
             "tmp",
             "temp",
             "bin",

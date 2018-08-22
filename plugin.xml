@@ -16,10 +16,10 @@
             </separator>
          </menu>
          <action
-               label="Mark target folders as derived resources (as well as tmp, temp, bin, etc...)"
+               label="Mark target/build folders as derived resources (as well as tmp, temp, bin, etc...)"
                icon="icons/markderiveddir.gif"
                class="se.ya2o.targetderivator.actions.TargetDerivatorAction"
-               tooltip="Mark target folders as derived resources (as well as tmp, temp, bin, etc..."
+               tooltip="Mark target/build folders as derived resources (as well as tmp, temp, bin, etc..."
                menubarPath="derivatorMenu/derivatorGroup"
                toolbarPath="derivatorGroup"
                id="se.ya2o.targetderivator.actions.TargetDerivatorAction">
